@@ -24,6 +24,8 @@
 - Rust
 - C++
 - COBOL
+- C
+- F#
 
 ## Free to browse and learn
 You can download the repository to test out the code. Have fun.
