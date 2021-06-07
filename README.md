@@ -4,6 +4,11 @@
 
 **Great**, I started here with languages that I used in the past or I'm using now. There are plenty of them, so it isn't easy to get around many files, if there is an error - **let me know**.
 
+### Contributing
+If you want to help (for example add a language not mentioned here) create pull request sticking to our template.
+- **Hello, < lang_name >!** is our console message placeholder.
+- We are adding comment with language name inside the code file.
+
 ### 🎯 List:
 - HTML
 - CSS
@@ -11,12 +16,11 @@
 - Go
 - Python
 - TS
-- Java
-- Batch
-- Bash
+- Shell
 - PHP
 - XML
 - Dart
+- Java
 - Kotlin
 - Ruby
 - Lua
@@ -29,5 +33,3 @@
 
 ## Free to browse and learn
 You can download the repository to test out the code. Have fun.
-
-
