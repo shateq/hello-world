@@ -20,19 +20,22 @@ If you want to help (for example add a language not mentioned here) create pull 
 - Shell
 - PHP
 - Dart
-- Java
-- Kotlin
-- Groovy
+- F#
+- R
 - Ruby
 - Lua
 - COBOL
 - Haskell
 - Rust
 - Julia
+
+- Java
+- Kotlin
+- Groovy
+- Scala
+
 - C
 - C++
-- F#
-- R
 
 ## Free to browse and learn
 You can download the repository to test out the code. Have fun.
