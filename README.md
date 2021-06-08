@@ -13,22 +13,24 @@ If you want to help (for example add a language not mentioned here) create pull 
 - HTML
 - CSS
 - JS
-- Go
-- Python
 - TS
+- XML
+- Python
+- Go
 - Shell
 - PHP
-- XML
 - Dart
 - Java
 - Kotlin
+- Groovy
 - Ruby
 - Lua
+- COBOL
 - Haskell
 - Rust
-- C++
-- COBOL
+- Julia
 - C
+- C++
 - F#
 
 ## Free to browse and learn
