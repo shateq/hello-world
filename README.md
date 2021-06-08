@@ -32,6 +32,7 @@ If you want to help (for example add a language not mentioned here) create pull 
 - C
 - C++
 - F#
+- R
 
 ## Free to browse and learn
 You can download the repository to test out the code. Have fun.
